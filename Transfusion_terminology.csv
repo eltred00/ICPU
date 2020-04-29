@@ -1,0 +1,316 @@
+1,C0001175,Acquired  Immunodeficiency Syndrome
+2,C0002627,Amniocentesis
+3,C0030605,Activated  Partial Thromboplastin  Time measurement
+4,C0002962,Angina  Pectoris
+5,C0043031,Warfarin
+6,C0019682,HIV
+7,C0162871,Aortic  Aneurysm, Abdominal
+8,C0005767,Blood
+9,C2926614,Everdiagnosed by  a doctor as having an abdominal aortic aneurysm:Finding:Point in time:^Patient:Ordinal 
+10,C0005768,In  Blood
+11,C0229664,peripheral  blood
+12,C0023896,Alcoholic  Liver Diseases
+13,C0005810,Blood  Group (classification)
+14,C0600103,Blood  group transfusion  observation
+15,C0003232,Antibiotics
+16,C0003280,Anticoagulants
+17,C0001122,Acidosis
+18,C0003130,Anoxia
+19,C0242184,Hypoxia
+20,C1963140,Hypoxia  Adverse Event
+21,C0220981,Metabolic  acidosis
+22,C0226004,Arterial  system
+23,C0003842,Arteries
+24,C0005953,Bone  Marrow
+25,C0012634,Disease
+26,C0019080,Hemorrhage
+27,C0005791,Apheresis  (procedure)
+28,C1515895,Allogeneic
+29,C4522247,Allogeneic  Blood Product  Donation
+30,C0002871,Anemia
+31,C0003241,Antibodies 
+32,C3536809,Antihistamine  [EPC]
+33,C0003360,Antihistamines
+34,C0085430,Blood  Component Transfusion
+35,C0450129,Blood  component
+36,C1413336,CEL  gene
+37,C1948049,Cell  (compartment)
+38,C1704653,Cell  Device Component
+39,C0007634,Cells
+40,C0453946,Coat  (physical object)
+41,C0019592,Histamine  H1 Antagonists
+42,C3665580,Immunoglobulin  complex location,  circulating
+43,C0021027,Immunoglobulins
+44,C0237820,Recovery  - action
+45,C0085405,Salvage  Therapy
+46,C0442967,Salvage  procedure
+47,C2709037,ante  partum
+48,C0368675,antibody  antigen
+49,C0856716,aspirin  asthma
+50,C0369095,d  antibody
+51,C2976467,EPO  protein, human
+52,C0357126,Epoetin  Alfa
+53,C0014822,Erythropoietin
+54,C0376541,Recombinant  Erythropoietin
+55,C1755594,erythropoietin  activity
+56,C0007785,Cerebral  Infarction
+57,C0015505,Factor  VIIa
+58,C0857490,Granulocyte  count
+59,C4521391,Granulocytes  Product
+60,C0018183,granulocyte
+61,C0016006,Fibrinogen
+62,C3540039,Fibrinogen  containing hemostatics
+63,C1167394,fibrinogen  complex location
+64,C2587184,fibrinogen  concentrate (human)
+65,C1547245,Blood  Product Code  - Fresh  Frozen Plasma
+66,C0016709,Fresh  frozen plasma
+67,C0014792,Erythrocytes
+68,C0015879,Ferritin
+69,C0014772,Red  Blood Cell  Count measurement
+70,C0013798,Electrocardiogram
+71,C1705651,Electrocardiogram  Domain
+72,C1623258,Electrocardiography
+73,C2348066,dabigatran
+74,C0000941,Accreditation
+75,C2732002,Antihemophilic  Factor, Human  Recombinant
+76,C0015506,Factor  VIII
+77,C1307126,factor  VIII, human
+78,C0010825,Cytomegalovirus
+79,C0149871,Deep  Vein Thrombosis
+80,C0011946,Dialysis  procedure
+81,C1059964,Genus  Dialysis
+82,C0011945,Physical  Dialysis
+83,C0003130,Anoxia
+84,C0024117,Chronic  Obstructive Airway  Disease
+85,C3245512,HL7PublishingSubSection  <practice>
+86,C0242184,Hypoxia
+87,C1963140,Hypoxia  Adverse Event
+88,C0030667,Pathology,  Clinical
+89,C0237607,Practice  Experience
+90,C1547561,Authorization  Mode -  Electronic
+91,C0012634,Disease
+92,C0013850,Electronic
+93,C4281784,Electronics  discipline
+94,C0013990,Pathological  accumulation of  air in  tissues
+95,C0034067,Pulmonary  Emphysema
+96,C0005778,Blood  coagulation
+97,C0441509,Coagulation  procedure
+98,C1328723,Coagulation  process
+99,C1554192,ActClass  - consent
+100,C0007584,Cell  Count
+101,C0007634,Cells
+102,C2937358,Cerebral  Hemorrhage
+103,C1511481,Consent
+104,C0855279,Crossmatch
+105,C0012240,Gastrointestinal  system
+106,C0205170,Good
+107,C0018928,Hematinics
+108,C0442123,Intravascular
+109,C2960476,Intravascular  Route of  Drug Administration
+110,C1706387,Issue  (document)
+111,C1141951,Panel-reactive  antibody
+112,C0033213,Problem
+113,C0443121,cryoprecipitate
+114,C1165603,dextrose  solution
+115,C0870840,manufacture
+116,C1332206,Adult  Lymphoma
+117,C1332979,Childhood  Lymphoma
+118,C0024299,Lymphoma
+119,C0304925,Albumin  Human, USP
+120,C0018991,Hemiplegia
+121,C0018951,Hematopoiesis
+122,C0003130,Anoxia
+123,C0413252,Hypothermia  due to  exposure
+124,C0020672,Hypothermia,  natural
+125,C0242184,Hypoxia
+126,C1963140,Hypoxia  Adverse Event
+127,C0021289,Infant,  Newborn
+128,C0019134,heparin
+129,C0770546,heparin,  porcine
+130,C1963138,Hypertension  Adverse Event
+131,C0020538,Hypertensive  disease
+132,C0020649,Hypotension
+133,C3163620,Hypotension  Adverse Event
+134,C0018747,Health  Services
+135,C0518014,Hematocrit  level
+136,C0019046,Hemoglobin
+137,C0019045,Hemoglobinopathies
+138,C2937287,Hemolysis  (biological function)
+139,C0019054,Hemolysis  (disorder)
+140,C0019080,Hemorrhage
+141,C0740166,Hemostasis  procedure
+142,C0019116,Hemostatic  function
+143,C1547311,Patient  Condition Code  - Stable
+144,C0205360,Stable  status
+145,C0359180,albumin  solution
+146,C1263988,hemolytic  disease
+147,C1518422,Negation
+148,C0376520,Dietary  Iron
+149,C1166521,Ferrum  metallicum, Homeopathic  preparation
+150,C0302583,Iron
+151,C3714701,Iron  Drug Class
+152,C0043299,Diagnostic  radiologic examination
+153,C1306645,Plain  x-ray
+154,C1962945,Radiographic  imaging procedure
+155,C3891450,Radiography  Study File
+156,C0043309,Roentgen  Rays
+157,C0034571,roentgenographic
+158,C0000970,Acetaminophen
+159,C0005767,Blood
+160,C0005768,In  Blood
+161,C0229664,peripheral  blood
+162,C0428953,Electrocardiogram:  myocardial infarction  (finding)
+163,C0022346,Icterus
+164,C0027051,Myocardial  Infarction
+165,C3810814,Myocardial  Infarction ECG  Assessment
+166,C2926063,Myocardial  infarction         
+167,C2010848,jaundice
+168,C0024204,lymph  nodes
+169,C0005821,Blood  Platelets
+170,C1963076,Platelets  Adverse Event
+171,C0443116,Platelets  Product
+172,C0032285,Pneumonia
+173,C0086388,Health  Care
+174,C0028773,Discipline  of obstetrics
+175,C0282193,Iron  Overload
+176,C1963148,Iron  Overload Adverse  Event
+177,C0587597,Obstetrics  service
+178,C0027462,Health  Services, National
+179,C0024235,Lymphatic  System
+180,C0030312,Pancytopenia
+181,C0032326,Pneumothorax
+182,C1963215,Pneumothorax  Adverse Event
+183,C0086960,Schedule  (document type)              
+185,C0013227,Pharmaceutical  Preparations
+186,C1552615,Act  Relationship Subset  - maximum
+187,C1548980,Blood  Product Processing  Requirements - Irradiated
+188,C0005841,Blood  Transfusion
+189,C0449432,Component  object
+190,C1546934,Event  Reported To  - Regulatory agency
+191,C2349976,Gamma  - unit  of measure
+192,C0017011,Gamma  Rays
+193,C0442123,Intravascular
+194,C2960476,Intravascular  Route of  Drug Administration
+195,C0348016,Intravenous
+196,C1277077,Irradiated  blood product  (product)
+197,C0023212,Left-Sided  Heart Failure
+198,C0023516,Leukocytes
+199,C3463824,MYELODYSPLASTIC  SYNDROME
+200,C0806909,Maximum
+201,C2826546,Maximum  Value Derivation  Technique
+202,C0026764,Multiple  Myeloma
+203,C0026985,Myelodysplasia
+204,C3538749,NCI  CTEP SDC  Myeloma Sub-Category Terminology
+205,C0302523,Observation  in research
+206,C3244290,Observations  domain
+207,C1882154,Operative
+208,C0543467,Operative  Surgical Procedures
+209,C1705178,Order  (action)
+210,C1705176,Order  (arrangement)
+211,C1705175,Order  (document)
+212,C1705177,Order  (taxonomic)
+213,C0483415,Oxygen  saturation test  result
+214,C0700325,Patient  observation
+215,C1882348,Permutation
+216,C1254351,Pharmacologic  Substance
+217,C0687676,Post
+218,C1704687,Post  Device Component
+219,C1571888,Report  source -  Regulatory agency
+220,C3469826,SLC35G1  gene
+221,C3889825,Sequence  of Planned  Assessment Schedule
+222,C0587668,Surgical  service
+223,C1522449,Therapeutic  radiology procedure
+224,C1879316,Transfusion  (procedure)
+225,C0199960,Transfusion  - action
+226,C0042149,Uterus
+227,C0682356,Witnesses
+228,C0023418,leukemia
+229,C1514468,product
+230,C0680775,regulatory  agency
+231,C0003209,Anti-Inflammatory  Agents
+232,C1515999,Anti-inflammatory  effect
+233,C1518422,Negation
+234,C1565536,Octaplex
+235,C0347985,intra
+236,C0482694,Coagulation  tissue factor
+237,C1739768,rivaroxaban
+238,C0005767,Blood
+239,C0005768,In  Blood
+240,C0229664,peripheral  blood
+241,C0036043,Safety
+242,C1705187,Safety  Study
+243,C3245512,HL7 PublishingSubSection
+244,C0237607,Practice  Experience
+245,C3541888,CDISC  Events Class
+246,C0441471,Event
+247,C1515981,And
+248,C0332152,Before
+249,C0740175,Before  values
+250,C0040300,Body  tissue
+251,C0014792,Erythrocytes
+252,C0015967,Fever
+253,C1882154,Operative
+254,C0199176,Prophylactic  treatment
+255,C0034063,Pulmonary  Edema
+256,C0034065,Pulmonary  Embolism
+257,C0232804,Renal  function
+258,C0424790,Rigor  - Temperature-associated  observation
+259,C4048712,factor  IX complex
+260,C2257086,photoreactivating  enzyme activity
+261,C0850002,post  partum haemorrhage
+262,C0033107,prevention  & control
+263,C3853787,prophylaxis
+264,C0037993,Spleen
+265,C0038002,Splenomegaly
+266,C0037995,Splenectomy
+267,C0038250,Stem  cells
+268,C0005841,Blood  Transfusion
+269,C0205404,Serious
+270,C0205555,Special
+271,C1879316,Transfusion  (procedure)
+272,C0199960,Transfusion  - action
+273,C0598697,hazard
+274,C0042878,Vitamin  K
+275,C3714648,Vitamin  K Drug  Class
+276,C2936884,Vitamin  K [EPC]
+277,C3541380,Vitamin  K containing  hemostatics
+278,C0042420,Vasovagal  syncope
+279,C0005857,Bloodletting
+280,C0684257,Venesection
+281,C0190979,Venous  blood sampling
+282,C0043031,Warfarin
+283,C0039231,Tachycardia
+284,C3827868,Tachycardia  by ECG  Finding
+285,C0005821,Blood  Platelets
+286,C3816193,Nucleated  Thrombocyte Count
+287,C0282332,Cold  Chain
+288,C0040613,Tranexamic  Acid
+289,C2921022,Transfusion  associated circulatory  overload
+290,C0242488,Acute  Lung Injury
+291,C0302148,Blood  Clot
+292,C0392386,Decreased  platelet count
+293,C0040034,Thrombocytopenia
+294,C0087086,Thrombus
+295,C3146237,Thrombus  (sponge genus)
+296,C0042396,Vascular  constriction (function)
+297,C3536904,Vasoconstriction
+298,C0042401,Vasodilation
+299,C3537065,Vasodilation
+300,C0595862,Vasodilation  disorder
+301,C0005841,Blood  Transfusion
+302,C1879316,Transfusion  (procedure)
+303,C0199960,Transfusion  - action
+304,C0012634,Disease
+305,C0042449,Veins
+306,C0018133,Graft-vs-Host  Disease
+307,C3714514,Infection
+308,C1558950,Adverse  Event Associated  with Vascular
+309,C0332281,Associated  with
+310,C0005847,Blood  Vessel
+311,C0439849,Relationships
+312,C0039070,Syncope
+313,C0332289,Transmitted  by
+314,C0205419,Variant
+315,C1801960,Vascular
+316,C0242781,disease  transmission
+317,C1521797,transmission  process

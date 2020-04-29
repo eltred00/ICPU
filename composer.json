@@ -1,0 +1,14 @@
+{
+    "name": "vendor/auto-query",
+    "description": "Description of project AutoQuery.",
+    "authors": [
+        {
+            "name": "RE",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "hoa/ruler": "dev-master",
+        "hoa/compiler": "dev-master"
+    }
+}

@@ -1,0 +1,27 @@
+main INFO  ner.MetaMapLite - Could not load configuration file from classpath: config/metamaplite.properties
+main DEBUG document.BioCDocumentLoaderRegistry - chemdner -> gov.nih.nlm.nls.metamap.document.ChemDNER
+main DEBUG document.BioCDocumentLoaderRegistry - sli -> gov.nih.nlm.nls.metamap.document.SingleLineInput
+main DEBUG document.BioCDocumentLoaderRegistry - pubmed -> gov.nih.nlm.nls.metamap.document.PubMedXMLDocument
+main DEBUG document.BioCDocumentLoaderRegistry - chemdnersldi -> gov.nih.nlm.nls.metamap.document.ChemDNERSLDI
+main DEBUG document.BioCDocumentLoaderRegistry - freetext -> gov.nih.nlm.nls.metamap.document.FreeText
+main DEBUG document.BioCDocumentLoaderRegistry - medline -> gov.nih.nlm.nls.metamap.document.MedlineDocument
+main DEBUG document.BioCDocumentLoaderRegistry - bioc -> gov.nih.nlm.nls.metamap.document.BioCDocumentLoaderImpl
+main DEBUG document.BioCDocumentLoaderRegistry - pubtator -> gov.nih.nlm.nls.metamap.document.PubTator
+main DEBUG document.BioCDocumentLoaderRegistry - sldi -> gov.nih.nlm.nls.metamap.document.SingleLineInput
+main DEBUG document.BioCDocumentLoaderRegistry - ncbicorpus -> gov.nih.nlm.nls.metamap.document.NCBICorpusDocument
+main DEBUG document.BioCDocumentLoaderRegistry - sldiwi -> gov.nih.nlm.nls.metamap.document.SingleLineDelimitedInputWithID
+main DEBUG document.BioCDocumentLoaderRegistry - chemdner -> gov.nih.nlm.nls.metamap.document.ChemDNER
+main DEBUG document.BioCDocumentLoaderRegistry - sli -> gov.nih.nlm.nls.metamap.document.SingleLineInput
+main DEBUG document.BioCDocumentLoaderRegistry - pubmed -> gov.nih.nlm.nls.metamap.document.PubMedXMLDocument
+main DEBUG document.BioCDocumentLoaderRegistry - chemdnersldi -> gov.nih.nlm.nls.metamap.document.ChemDNERSLDI
+main DEBUG document.BioCDocumentLoaderRegistry - freetext -> gov.nih.nlm.nls.metamap.document.FreeText
+main DEBUG document.BioCDocumentLoaderRegistry - medline -> gov.nih.nlm.nls.metamap.document.MedlineDocument
+main DEBUG document.BioCDocumentLoaderRegistry - bioc -> gov.nih.nlm.nls.metamap.document.BioCDocumentLoaderImpl
+main DEBUG document.BioCDocumentLoaderRegistry - pubtator -> gov.nih.nlm.nls.metamap.document.PubTator
+main DEBUG document.BioCDocumentLoaderRegistry - sldi -> gov.nih.nlm.nls.metamap.document.SingleLineInput
+main DEBUG document.BioCDocumentLoaderRegistry - ncbicorpus -> gov.nih.nlm.nls.metamap.document.NCBICorpusDocument
+main DEBUG document.BioCDocumentLoaderRegistry - sldiwi -> gov.nih.nlm.nls.metamap.document.SingleLineDelimitedInputWithID
+main DEBUG ner.MetaMapLite - metamaplite.indicate.citation.end: false
+main DEBUG ner.MetaMapLite - documentInputOutput: freetext
+main INFO  ner.MetaMapLite - Loading and processing documents
+main INFO  ner.MetaMapLite - Loading and processing sample.txt
